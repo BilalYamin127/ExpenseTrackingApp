@@ -1,6 +1,18 @@
 # expense_tracking
 
-A new Flutter project.
+Expense App(Flutter Based App) for
+the Management of expenses. In this
+app we have a button for adding
+expense when button is clicked a
+Modal Sheet
+appear which contain the detail
+about expense. Validation is applied
+after validating, new expense added.
+On home screen bellows to add new
+Expense button a Chart that shows
+all expenses and below that all
+expenses are listed
+
 
 ## Getting Started
 
